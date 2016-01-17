@@ -1,0 +1,8 @@
+detectors:
+  - 'surf'
+  - 'sift'
+descriptors:
+  - 'surf'
+  - 'sift'
+matchers:
+  - 'flann'
