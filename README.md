@@ -1,4 +1,4 @@
-hackberry
-=========
+# mosa
 
-RF Module to record digital stuff
+[WIP] Python Image Processing module to stitich a serier of similar images to
+create a mosaic.
